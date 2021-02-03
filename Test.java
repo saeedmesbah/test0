@@ -44,7 +44,7 @@ class hello implements Runnable{
   
   
   // test 1
-    
+    // test 2
     public void hello(){
         System.out.println("test1");
     }
